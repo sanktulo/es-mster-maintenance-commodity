@@ -40,5 +40,97 @@
       "update_at": "",
       "update_user_id": ""
     }
+  ],
+  "salesOffice": [
+    {
+      "id": 1,
+      "displayIndex": 1,
+      "name": "営業所1",
+      "regionId": 1,
+      "address": "住所1",
+      "phoneNumber": "電話番号1",
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "displayIndex": 2,
+      "name": "営業所2",
+      "regionId": 2,
+      "address": "住所2",
+      "phoneNumber": "電話番号2",
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "displayIndex": 3,
+      "name": "営業所3",
+      "regionId": 3,
+      "address": "住所3",
+      "phoneNumber": "電話番号3",
+      "deleted": false
+    },
+    {
+      "id": 4,
+      "displayIndex": 4,
+      "name": "営業所4",
+      "regionId": 4,
+      "address": "住所4",
+      "phoneNumber": "電話番号4",
+      "deleted": false
+    },
+    {
+      "id": 5,
+      "displayIndex": 5,
+      "name": "営業所5",
+      "regionId": 5,
+      "address": "住所5",
+      "phoneNumber": "電話番号5",
+      "deleted": false
+    },
+    {
+      "id": 6,
+      "displayIndex": 6,
+      "name": "営業所6",
+      "regionId": 6,
+      "address": "住所6",
+      "phoneNumber": "電話番号6",
+      "deleted": false
+    },
+    {
+      "id": 7,
+      "displayIndex": 7,
+      "name": "営業所7",
+      "regionId": 7,
+      "address": "住所7",
+      "phoneNumber": "電話番号7",
+      "deleted": false
+    },
+    {
+      "id": 8,
+      "displayIndex": 8,
+      "name": "営業所8",
+      "regionId": 8,
+      "address": "住所8",
+      "phoneNumber": "電話番号8",
+      "deleted": false
+    },
+    {
+      "id": 9,
+      "displayIndex": 9,
+      "name": "営業所9",
+      "regionId": 9,
+      "address": "住所9",
+      "phoneNumber": "電話番号9",
+      "deleted": false
+    },
+    {
+      "id": 10,
+      "displayIndex": 10,
+      "name": "営業所10",
+      "regionId": 10,
+      "address": "住所10",
+      "phoneNumber": "電話番号10",
+      "deleted": false
+    }
   ]
 }
