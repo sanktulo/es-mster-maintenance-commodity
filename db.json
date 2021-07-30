@@ -1,22 +1,44 @@
-
-  {
-    "id": 1,
-    "name": "床置床排水大便器ピュアレストQR",
-    "model_number": "CS232BM",
-    "color": "パステルアイボリー",
-    "size": "",
-    "category": "便器",
-    "maker": "TOTO",
-    "price": 54300,
-    "series_name": "ピュアレストQR",
-    "color_model_number": "#SC1",
-    "sub_category": "床排水",
-    "qr_code": "34940577 CS232BM #SC1",
-    "bar_code": "",
-    "memo": "",
-    "deleted": "",
-    "update_at": "",
-    "update_user_id": "",
-    "create_at": "",
-    "create_user_id": ""
-  }
+{
+  "commodity": [
+    {
+      "id": 1,
+      "name": "床置床排水大便器ピュアレストQR",
+      "model_number": "CS232BM",
+      "color": "パステルアイボリー",
+      "size": "",
+      "category": "便器",
+      "maker": "TOTO",
+      "price": 54300,
+      "series_name": "ピュアレストQR",
+      "color_model_number": "#SC1",
+      "sub_category": "床排水",
+      "qr_code": "34940577 CS232BM #SC1",
+      "bar_code": "",
+      "memo": "",
+      "deleted": "",
+      "update_at": "",
+      "update_user_id": "",
+      "create_at": "",
+      "create_user_id": ""
+    },
+    {
+      "id": 2,
+      "name": "手洗付密結タンクピュアレストQR",
+      "modelNumber": "SH233BA",
+      "color": "パステルアイボリー",
+      "size": "",
+      "categoryId": 2,
+      "makerId": 1,
+      "price": 58700,
+      "seriesName": "ピュアレストQR",
+      "colorModelNumber": "#SC1",
+      "subCategory": "手洗有り",
+      "qrCode": "34940577 SH233BA #SC1",
+      "barCode": "",
+      "memo": "",
+      "deleted": "",
+      "update_at": "",
+      "update_user_id": ""
+    }
+  ]
+}
