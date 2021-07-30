@@ -1,4 +1,3 @@
-module.exports = [
     {
       "id": 1,
       "name": "床置床排水大便器ピュアレストQR",
@@ -3744,4 +3743,3 @@ module.exports = [
       "update_at": "",
       "update_user_id": ""
     }
-  ]
